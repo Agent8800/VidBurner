@@ -4,7 +4,7 @@ const path = require('path');
 const ffmpeg = require('fluent-ffmpeg');
 const https = require('https');
 
-const bot = new Telegraf('YOUR_TELEGRAM_BOT_TOKEN'); // Replace with your bot token
+const bot = new Telegraf('6449794069:AAGDIZLMmHm17PBunAb840ttSYeuggPsOrY'); // Replace with your bot token
 const subtitlePath = '/path/to/subtitles.srt'; // Replace with the actual path to your subtitles file
 
 // Command handler for /start
