@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "Kirito",
+  "license": "Apache License",
   "dependencies": {
     "telegraf": "4.7.0",
     "fluent-ffmpeg": "2.8.1",
